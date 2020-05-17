@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="" />
+    <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,17 +26,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c2SFDCeOuXO7SceJCAgF60LnPb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../02-Strategy/Python/Django/Langyu" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RunManager">
@@ -73,13 +87,39 @@
       <updated>1589725088676</updated>
       <workItem from="1589725102280" duration="214000" />
       <workItem from="1589725491261" duration="22318000" />
+      <workItem from="1589752555692" duration="102000" />
+      <workItem from="1589752682302" duration="103000" />
     </task>
+    <task id="LOCAL-00001" summary="n/a">
+      <created>1589752584741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589752584741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="n/a">
+      <created>1589752623028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589752623028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="n/a" />
+    <option name="LAST_COMMIT_MESSAGE" value="n/a" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2116" y="564" key="#Stylelint" timestamp="1589752703081">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2116" y="564" key="#Stylelint/0.0.3440.1400@0.0.3440.1400" timestamp="1589752703081" />
     <state x="1972" y="393" key="#Web_Browsers" timestamp="1589727649249">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -88,13 +128,21 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589747374701" />
-    <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589725884075">
+    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589752622608">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1880" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589725884075" />
+    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589752622608" />
+    <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589752701710">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1880" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589752701710" />
     <state x="1601" y="335" key="SettingsEditor" timestamp="1589730935350">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1601" y="335" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589730935350" />
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589752606902">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589752606902" />
   </component>
 </project>
