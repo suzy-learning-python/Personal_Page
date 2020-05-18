@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/SI IET RPG_after_ICCEP.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../02-Strategy/Python/Django/Langyu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +50,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\media" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Personal_Page" type="Python.DjangoServer" factoryName="Django server">
@@ -89,6 +95,8 @@
       <workItem from="1589725491261" duration="22318000" />
       <workItem from="1589752555692" duration="102000" />
       <workItem from="1589752682302" duration="103000" />
+      <workItem from="1589794895693" duration="222000" />
+      <workItem from="1589814681025" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="n/a">
       <created>1589752584741</created>
@@ -104,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589752623028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="n/a">
+      <created>1589794987038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589794987038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="n/a">
+      <created>1589795044432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589795044432</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +138,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="n/a" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2116" y="564" key="#Stylelint" timestamp="1589752703081">
+    <state x="2116" y="564" key="#Stylelint" timestamp="1589795076806">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2116" y="564" key="#Stylelint/0.0.3440.1400@0.0.3440.1400" timestamp="1589752703081" />
+    <state x="2116" y="564" key="#Stylelint/0.0.3440.1400@0.0.3440.1400" timestamp="1589795076806" />
     <state x="1972" y="393" key="#Web_Browsers" timestamp="1589727649249">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -128,14 +150,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589747374701" />
-    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589752622608">
+    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589795044003">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589752622608" />
-    <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589752701710">
+    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589795044003" />
+    <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589795116530">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1880" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589752701710" />
+    <state x="1880" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589795116530" />
     <state x="1601" y="335" key="SettingsEditor" timestamp="1589730935350">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -144,5 +166,13 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589752606902" />
+    <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589795002503">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589795002503" />
+    <state x="2046" y="460" key="git4idea.merge.GitPullDialog" timestamp="1589795050902">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2046" y="460" key="git4idea.merge.GitPullDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589795050902" />
   </component>
 </project>
