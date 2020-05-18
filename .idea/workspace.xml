@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/SI IET RPG_after_ICCEP.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -96,7 +96,8 @@
       <workItem from="1589752555692" duration="102000" />
       <workItem from="1589752682302" duration="103000" />
       <workItem from="1589794895693" duration="222000" />
-      <workItem from="1589814681025" duration="130000" />
+      <workItem from="1589814681025" duration="549000" />
+      <workItem from="1589815295526" duration="1134000" />
     </task>
     <task id="LOCAL-00001" summary="n/a">
       <created>1589752584741</created>
@@ -126,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589795044432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="n/a">
+      <created>1589814874314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589814874314</updated>
+    </task>
+    <task id="LOCAL-00006" summary="n/a">
+      <created>1589815217193</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589815217193</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,10 +165,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589747374701" />
-    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589795044003">
+    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589815216735">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589795044003" />
+    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589815216735" />
     <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589795116530">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -162,10 +177,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1601" y="335" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589730935350" />
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589752606902">
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589815222085">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589752606902" />
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589815222085" />
     <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589795002503">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
