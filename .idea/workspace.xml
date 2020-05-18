@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -98,7 +99,8 @@
       <workItem from="1589814681025" duration="549000" />
       <workItem from="1589815295526" duration="4639000" />
       <workItem from="1589827306460" duration="175000" />
-      <workItem from="1589827546982" duration="343000" />
+      <workItem from="1589827546982" duration="407000" />
+      <workItem from="1589835168911" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="n/a">
       <created>1589752584741</created>
@@ -163,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589827467929</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="n/a">
+      <created>1589827941367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589827941367</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,10 +196,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589747374701" />
-    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589827467458">
+    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589827940937">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589827467458" />
+    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589827940937" />
     <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589795116530">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -199,10 +208,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1601" y="335" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589730935350" />
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589827474731">
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589827947364">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589827474731" />
+    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589827947364" />
     <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589795002503">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
