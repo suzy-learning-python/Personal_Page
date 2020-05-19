@@ -52,7 +52,8 @@
 <header>
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-xl navbar-dark fixed-top scrolling-navbar">
+    <nav class="navbar navbar-expand-xl navbar-dark fixed-top scrolling-navbar" id="navbar" style="  display: block;
+  transition: top 0.3s;">
 
         <div class="container mx-0 col-12">
 
@@ -64,7 +65,8 @@
 
             </button>
 
-            <div class="collapse navbar-collapse justify-content-right col-xl-8 offset-xl-2 px-0" id="navbarTogglerDemo02">
+            <div class="collapse navbar-collapse justify-content-right col-xl-8 offset-xl-2 px-0"
+                 id="navbarTogglerDemo02">
 
                 <ul class="navbar-nav mx-auto smooth-scroll">
 
@@ -548,7 +550,8 @@
 
                             <p class="font-weight-bold  dark-grey-text mb-2">实习 </p>
 
-                            <p class="font-weight-bold  dark-grey-text mb-2">2018年6月 - 2018年7月，中国，北京，中国电力科学研究院，人工智能研究中心</p>
+                            <p class="font-weight-bold  dark-grey-text mb-2">2018年6月 -
+                                2018年7月，中国，北京，中国电力科学研究院，人工智能研究中心</p>
                             <p class="  dark-grey-text mb-1"><strong>项目</strong>：基于数据挖掘的电网调控业务智能化技术研究</p>
 
                             <ul class="dark-grey-text mb-1" style="padding-left: 17px">
@@ -624,8 +627,10 @@
 
                 <h2 class="h2-responsive wow fadeIn mb-5 text-center">其他活动 </h2>
 
-                <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">• 热爱规律性的健身锻炼和其他体育活动，例如：完成2018年爱丁堡半程马拉松</h5>
-                <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">• 对金融充满好奇。目前正利用博士研究的课余时间准备2020年12月的特许金融分析师1级考试</h5>
+                <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">•
+                    热爱规律性的健身锻炼和其他体育活动，例如：完成2018年爱丁堡半程马拉松</h5>
+                <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">•
+                    对金融充满好奇。目前正利用博士研究的课余时间准备2020年12月的特许金融分析师1级考试</h5>
                 <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">• 拥有英国正式汽车驾驶执照</h5>
 
             </div>
@@ -999,6 +1004,19 @@
     /* WOW.js init */
     new WOW().init();
 
+</script>
+
+<script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function () {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            document.getElementById("navbar").style.top = "0";
+        } else {
+            document.getElementById("navbar").style.top = "-100px";
+        }
+        prevScrollpos = currentScrollPos;
+    }
 </script>
 
 </body>

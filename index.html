@@ -52,7 +52,8 @@
 <header>
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-xl navbar-dark  fixed-top scrolling-navbar">
+    <nav class="navbar navbar-expand-xl navbar-dark fixed-top scrolling-navbar" id="navbar" style="  display: block;
+  transition: top 0.3s;">
 
         <div class="container mx-0 col-12">
 
@@ -64,7 +65,8 @@
 
             </button>
 
-            <div class="collapse navbar-collapse justify-content-right col-xl-8 offset-xl-2 px-0" id="navbarTogglerDemo02">
+            <div class="collapse navbar-collapse justify-content-right col-xl-8 offset-xl-2 px-0"
+                 id="navbarTogglerDemo02">
 
                 <ul class="navbar-nav mx-auto smooth-scroll">
 
@@ -1047,6 +1049,19 @@
     /* WOW.js init */
     new WOW().init();
 
+</script>
+
+<script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function () {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            document.getElementById("navbar").style.top = "0";
+        } else {
+            document.getElementById("navbar").style.top = "-100px";
+        }
+        prevScrollpos = currentScrollPos;
+    }
 </script>
 
 </body>
