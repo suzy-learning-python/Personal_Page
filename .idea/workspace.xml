@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.1 test safari">
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.3 test safari">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
@@ -86,7 +86,7 @@
       <workItem from="1589905643829" duration="815000" />
       <workItem from="1589907054764" duration="71000" />
       <workItem from="1589914009511" duration="3091000" />
-      <workItem from="1589917193820" duration="606000" />
+      <workItem from="1589917193820" duration="1093000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -207,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589917614858</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="beta 1.0.2 test safari">
+      <created>1589917812297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589917812297</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +254,9 @@
     <MESSAGE value="n/a" />
     <MESSAGE value="beta 1.0" />
     <MESSAGE value="beta 1.0.1 test safari" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.1 test safari" />
+    <MESSAGE value="beta 1.0.2 test safari" />
+    <MESSAGE value="beta 1.0.3 test safari" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.3 test safari" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1633" y="470" key="FileChooserDialogImpl" timestamp="1589883723604">

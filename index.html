@@ -1052,34 +1052,31 @@
 </script>
 
 <script>
-    $(document).ready(function () {
-        // fade in .navbar
-        $(function () {
-            var $nav = $('.navbar');//Caching element
-            // hide .navbar first - you can also do this in css .nav{display:none;}
-            var prevScrollpos = window.pageYOffset;
-            $(window).scroll(function () {
-                // set distance user needs to scroll before we start fadeIn
-                if ($(this).scrollTop() <= $nav.height()) { //For dynamic effect use $nav.height() instead of '100'
-                    $nav.show()
-                } else {
-                    window.onscroll = function () {
-                        var currentScrollPos = window.pageYOffset;
-                        if (prevScrollpos > currentScrollPos) {
-                            document.getElementById("navbar").style.top = "0";
-                        } else {
-                            document.getElementById("navbar").style.top = "-100px";
-                        }
-                        prevScrollpos = currentScrollPos;
+    // fade in .navbar
+    $(function () {
+        var $nav = $('.navbar');//Caching element
+        // hide .navbar first - you can also do this in css .nav{display:none;}
+        var prevScrollpos = window.pageYOffset;
+        $(window).scroll(function () {
+            // set distance user needs to scroll before we start fadeIn
+            if (($(this).scrollTop() <= $nav.height()) || $(this).scrollTop() <= 5 ) { //For dynamic effect use $nav.height() instead of '100'
+                $nav.show()
+            } else {
+                window.onscroll = function () {
+                    var currentScrollPos = window.pageYOffset;
+                    if (prevScrollpos > currentScrollPos) {
+                        document.getElementById("navbar").style.top = "0";
+                    } else {
+                        document.getElementById("navbar").style.top = "-100px";
                     }
+                    prevScrollpos = currentScrollPos;
                 }
-            });
+            }
         });
-
     });
 
 </script>
-
+biaoji
 </body>
 
 </html>
