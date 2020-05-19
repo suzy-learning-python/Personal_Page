@@ -75,7 +75,7 @@
       <updated>1589883623054</updated>
       <workItem from="1589883625606" duration="100000" />
       <workItem from="1589883726568" duration="270000" />
-      <workItem from="1589884025328" duration="14185000" />
+      <workItem from="1589884025328" duration="14982000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589898187263</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="n/a">
+      <created>1589899465581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589899465581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,9 +167,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589898207192">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589899471363">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589898207192" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589899471363" />
   </component>
 </project>
