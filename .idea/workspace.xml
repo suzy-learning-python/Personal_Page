@@ -27,6 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="n/a">
+      <change afterPath="$PROJECT_DIR$/js/auto-hiding-bootstrap-navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/auto-hiding-bootstrap-navbar.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
@@ -56,10 +58,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
     </key>
@@ -77,7 +82,8 @@
       <workItem from="1589883625606" duration="100000" />
       <workItem from="1589883726568" duration="270000" />
       <workItem from="1589884025328" duration="15099000" />
-      <workItem from="1589901162823" duration="293000" />
+      <workItem from="1589901162823" duration="356000" />
+      <workItem from="1589901809301" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589900361413</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="n/a">
+      <created>1589901504411</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589901504411</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,9 +197,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589900366893">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589901509735">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589900366893" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589901509735" />
   </component>
 </project>
