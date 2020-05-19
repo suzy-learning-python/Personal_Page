@@ -72,7 +72,7 @@
 
                     <li class="nav-item mr-3 ml-0">
 
-                        <a class="nav-link" href="#home">Home_biaoji <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
 
                     </li>
 
@@ -716,9 +716,9 @@
                         </li>
                         <li>M. Zou, D. Fang, S. Z. Djokic, V. Di Giorgio, R. Langella, and A. Testa,
                             "Evaluation of Wind
-                                Turbine Power Outputs with and without Uncertainties in Input Wind Speed and Wind
-                                Direction
-                                Data," <i>IET Renewable Power Generation</i>, 2020 (accepted, in pressing).
+                            Turbine Power Outputs with and without Uncertainties in Input Wind Speed and Wind
+                            Direction
+                            Data," <i>IET Renewable Power Generation</i>, 2020 (accepted, in pressing).
                         </li>
                         <li>M. Zou et al., "Comparison of Three Methods for a Weather Based Day-Ahead Load Forecasting,"
                             in <i>2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)</i>, Bucharest,
@@ -984,7 +984,7 @@
 
         <!--Copyright-->
         <div class="footer-copyright py-3 justify-content-center">
-            <a class="nav-link align-self-center" href="#home"> biaoji Back to top</a>
+            <a class="nav-link align-self-center" href="#home"> Back to top</a>
         </div>
         <!--/.Copyright-->
 
@@ -1057,14 +1057,17 @@
         var $nav = $('.navbar');//Caching element
         // hide .navbar first - you can also do this in css .nav{display:none;}
         var prevScrollpos = window.pageYOffset;
+        if (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60)) { //For dynamic effect use $nav.height() instead of '100'
+            $nav.show()
+        }
         $(window).scroll(function () {
             // set distance user needs to scroll before we start fadeIn
-            if (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60) ) { //For dynamic effect use $nav.height() instead of '100'
+            if (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60)) { //For dynamic effect use $nav.height() instead of '100'
                 $nav.show()
             } else {
                 window.onscroll = function () {
                     var currentScrollPos = window.pageYOffset;
-                    if (prevScrollpos > currentScrollPos) {
+                    if ((prevScrollpos > currentScrollPos) || (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60))) {
                         document.getElementById("navbar").style.top = "0";
                     } else {
                         document.getElementById("navbar").style.top = "-100px";
