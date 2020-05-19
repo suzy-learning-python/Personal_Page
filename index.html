@@ -715,10 +715,10 @@
                             Methods Applied to Power Systems (PMAPS)</i>, 2020 (accepted, in final modifying).
                         </li>
                         <li>M. Zou, D. Fang, S. Z. Djokic, V. Di Giorgio, R. Langella, and A. Testa,
-                            <a href="./media/SI%20IET%20RPG_after_ICCEP.pdf">"Evaluation of Wind
+                            "Evaluation of Wind
                                 Turbine Power Outputs with and without Uncertainties in Input Wind Speed and Wind
                                 Direction
-                                Data,"</a> <i>IET Renewable Power Generation</i>, 2020 (accepted, in pressing).
+                                Data," <i>IET Renewable Power Generation</i>, 2020 (accepted, in pressing).
                         </li>
                         <li>M. Zou et al., "Comparison of Three Methods for a Weather Based Day-Ahead Load Forecasting,"
                             in <i>2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)</i>, Bucharest,
@@ -1052,16 +1052,33 @@
 </script>
 
 <script>
-    var prevScrollpos = window.pageYOffset;
-    window.onscroll = function () {
-        var currentScrollPos = window.pageYOffset;
-        if (prevScrollpos > currentScrollPos) {
-            document.getElementById("navbar").style.top = "0";
-        } else {
-            document.getElementById("navbar").style.top = "-100px";
-        }
-        prevScrollpos = currentScrollPos;
-    }
+    $(document).ready(function () {
+        var $nav = $('.nav');//Caching element
+        // hide .navbar first - you can also do this in css .nav{display:none;}
+        var prevScrollpos = window.pageYOffset;
+
+        // fade in .navbar
+        $(function () {
+            $(window).scroll(function () {
+                // set distance user needs to scroll before we start fadeIn
+                if ($(this).scrollTop() <= $nav.height()) { //For dynamic effect use $nav.height() instead of '100'
+                    $nav.show()
+                } else {
+                    window.onscroll = function () {
+                        var currentScrollPos = window.pageYOffset;
+                        if (prevScrollpos > currentScrollPos) {
+                            document.getElementById("navbar").style.top = "0";
+                        } else {
+                            document.getElementById("navbar").style.top = "-100px";
+                        }
+                        prevScrollpos = currentScrollPos;
+                    }
+                }
+            });
+        });
+
+    });
+
 </script>
 
 </body>
