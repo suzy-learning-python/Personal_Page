@@ -19,8 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="">
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Personal_Page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Personal_Page.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/SoapClancy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -28,11 +33,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="Personal_Page" is-module-sdk="true">
-    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-    <option name="myUseModuleSdk" value="true" />
-    <option name="myModuleName" value="Personal_Page" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,165 +44,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1c2SFDCeOuXO7SceJCAgF60LnPb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1c7dZhwxtY5Ow6RndQgEGJtoKFW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.stylelint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.stylelint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.stylelint" value="" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\media" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Personal_Page" type="Python.DjangoServer" factoryName="Django server">
-      <module name="Personal_Page" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aed56d71-8696-4cb9-872f-fc5f99474508" name="Default Changelist" comment="" />
-      <created>1589725088676</created>
+      <changelist id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="" />
+      <created>1589883623054</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589725088676</updated>
-      <workItem from="1589725102280" duration="214000" />
-      <workItem from="1589725491261" duration="22318000" />
-      <workItem from="1589752555692" duration="102000" />
-      <workItem from="1589752682302" duration="103000" />
-      <workItem from="1589794895693" duration="222000" />
-      <workItem from="1589814681025" duration="549000" />
-      <workItem from="1589815295526" duration="4639000" />
-      <workItem from="1589827306460" duration="175000" />
-      <workItem from="1589827546982" duration="407000" />
-      <workItem from="1589835168911" duration="836000" />
-      <workItem from="1589836212772" duration="154000" />
-      <workItem from="1589836381103" duration="351000" />
-      <workItem from="1589836750866" duration="94000" />
-      <workItem from="1589836898508" duration="96000" />
-      <workItem from="1589882774080" duration="223000" />
+      <updated>1589883623054</updated>
+      <workItem from="1589883625606" duration="100000" />
+      <workItem from="1589883726568" duration="270000" />
+      <workItem from="1589884025328" duration="6539000" />
     </task>
-    <task id="LOCAL-00001" summary="n/a">
-      <created>1589752584741</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1589752584741</updated>
-    </task>
-    <task id="LOCAL-00002" summary="n/a">
-      <created>1589752623028</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1589752623028</updated>
-    </task>
-    <task id="LOCAL-00003" summary="n/a">
-      <created>1589794987038</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1589794987038</updated>
-    </task>
-    <task id="LOCAL-00004" summary="n/a">
-      <created>1589795044432</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1589795044432</updated>
-    </task>
-    <task id="LOCAL-00005" summary="n/a">
-      <created>1589814874314</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1589814874314</updated>
-    </task>
-    <task id="LOCAL-00006" summary="n/a">
-      <created>1589815217193</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1589815217193</updated>
-    </task>
-    <task id="LOCAL-00007" summary="n/a">
-      <created>1589816435174</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1589816435174</updated>
-    </task>
-    <task id="LOCAL-00008" summary="n/a">
-      <created>1589819855368</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1589819855368</updated>
-    </task>
-    <task id="LOCAL-00009" summary="n/a">
-      <created>1589827467929</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1589827467929</updated>
-    </task>
-    <task id="LOCAL-00010" summary="n/a">
-      <created>1589827941367</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1589827941367</updated>
-    </task>
-    <task id="LOCAL-00011" summary="n/a">
-      <created>1589835991603</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1589835991603</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,61 +91,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="n/a" />
-    <option name="LAST_COMMIT_MESSAGE" value="n/a" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1733" y="551" width="916" height="433" key="#Notifications" timestamp="1589836774144">
+    <state x="1633" y="470" key="FileChooserDialogImpl" timestamp="1589883723604">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1733" y="551" width="916" height="433" key="#Notifications/0.0.3440.1400@0.0.3440.1400" timestamp="1589836774144" />
-    <state x="2116" y="564" key="#Stylelint" timestamp="1589795076806">
+    <state x="1633" y="470" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589883723604" />
+    <state x="1600" y="372" key="SettingsEditor" timestamp="1589887231812">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2116" y="564" key="#Stylelint/0.0.3440.1400@0.0.3440.1400" timestamp="1589795076806" />
-    <state x="1972" y="393" key="#Web_Browsers" timestamp="1589727649249">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1972" y="393" key="#Web_Browsers/0.0.3440.1400@0.0.3440.1400" timestamp="1589727649249" />
-    <state x="1296" y="413" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589836654125">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1296" y="413" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589836654125" />
-    <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589747374701">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2133" y="434" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589747374701" />
-    <state x="1895" y="164" key="CommitChangelistDialog2" timestamp="1589835991134">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1895" y="164" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1589835991134" />
-    <state x="1880" y="445" key="FileChooserDialogImpl" timestamp="1589882991335">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1880" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589882991335" />
-    <state x="1601" y="335" key="SettingsEditor" timestamp="1589882996537">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1601" y="335" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589882996537" />
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2" timestamp="1589835998094">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1995" y="416" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589835998094" />
-    <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589795002503">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2195" y="597" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589795002503" />
-    <state x="2046" y="460" key="git4idea.merge.GitPullDialog" timestamp="1589795050902">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2046" y="460" key="git4idea.merge.GitPullDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589795050902" />
-    <state x="1861" y="564" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589836354343">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1861" y="564" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589836354343" />
+    <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
   </component>
 </project>
