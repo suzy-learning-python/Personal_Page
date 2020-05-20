@@ -619,7 +619,9 @@
 
     <!-- Streak -->
     <div class="streak streak-photo streak-md" id="others"
-         style="background-image:url('./img/7D799783-AA52-4700-9005-4121B6616854.png');">
+         style="background-image:url('./img/bg_2.jpg');
+background-attachment: fixed; background-size: cover">
+
 
         <div class="mask flex-center rgba-indigo-strong">
 
@@ -663,6 +665,11 @@
                             Network Hosting Capacity for Wind-Based Renewable Generation," in <i>2020 International
                             Conference on Probabilistic
                             Methods Applied to Power Systems (PMAPS)</i>, 2020 (accepted, in final modifying).
+                        </li>
+                        <li>
+                            D. Fang, M. Zou, G. Harrison, J. Gunda, S. Djokic, and A. Vaccaro, "Multi-Stage Congestion
+                            Management Considering Maximum Lead Time and Voltage-Dependent Load Models," in <i>2020 IEEE
+                            PES Innovative Smart Grid Technologies Europe (ISGT-Europe)</i>, 2020 (accepted).
                         </li>
                         <li>
                             V. Di Giorgio, R. Langella, A. Testa, S. Djokic, and M. Zou, "First Order Non-homogeneous
@@ -1012,25 +1019,28 @@
         var $nav = $('.navbar');//Caching element
         // hide .navbar first - you can also do this in css .nav{display:none;}
         var prevScrollpos = window.pageYOffset;
-        if (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60)) { //For dynamic effect use $nav.height() instead of '100'
-            $nav.show()
-        }
+
         $(window).scroll(function () {
             // set distance user needs to scroll before we start fadeIn
-            if (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60)) { //For dynamic effect use $nav.height() instead of '100'
+            // if ($(this).scrollTop() <= $nav.height()) { //For dynamic effect use $nav.height() instead of '100'
+            //     $nav.show()
+            // } else {
+            // window.onscroll = function () {
+            var currentScrollPos = window.pageYOffset;
+            if ((prevScrollpos > currentScrollPos) || ($(this).scrollTop() <= $nav.height())) {
+                document.getElementById("navbar").style.top = "0";
                 $nav.show()
             } else {
-                window.onscroll = function () {
-                    var currentScrollPos = window.pageYOffset;
-                    if ((prevScrollpos > currentScrollPos) || (($(this).scrollTop() <= $nav.height()) || ($(this).scrollTop() <= 60))) {
-                        document.getElementById("navbar").style.top = "0";
-                    } else {
-                        document.getElementById("navbar").style.top = "-100px";
-                    }
-                    prevScrollpos = currentScrollPos;
-                }
+                document.getElementById("navbar").style.top = "-100px";
             }
+            prevScrollpos = currentScrollPos;
+            // }
+            // }
         });
+        if ($(this).scrollTop() <= $nav.height()) {
+            document.getElementById("navbar").style.top = "0";
+            $nav.show()
+        }
     });
 
 </script>
