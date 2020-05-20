@@ -26,11 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.9: final attempt to fix safari issue of background-image">
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.1 all bugs known fixed, sitemap.xml attached">
+      <change afterPath="$PROJECT_DIR$/sitemap_baidu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +64,12 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
     </key>
   </component>
   <component name="RunManager">
@@ -113,7 +111,9 @@
       <workItem from="1589974956197" duration="145000" />
       <workItem from="1589975130767" duration="36000" />
       <workItem from="1589982279803" duration="1622000" />
-      <workItem from="1589984417420" duration="638000" />
+      <workItem from="1589984417420" duration="1532000" />
+      <workItem from="1589987960225" duration="505000" />
+      <workItem from="1589988690994" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -290,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589983889560</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="beta 1.1 all bugs known fixed, sitemap.xml attached">
+      <created>1589985232520</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589985232520</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +346,8 @@
     <MESSAGE value="beta 1.0.7: 1) safari的js的navbar隐藏bug的final attempt; 2) add a new paper; 3) 图像resize dpi和background-attachment: fixed" />
     <MESSAGE value="beta 1.0.8: final attempt to fix safari issue of background-image" />
     <MESSAGE value="beta 1.0.9: final attempt to fix safari issue of background-image" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.9: final attempt to fix safari issue of background-image" />
+    <MESSAGE value="beta 1.1 all bugs known fixed, sitemap.xml attached" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.1 all bugs known fixed, sitemap.xml attached" />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1589920573208">
@@ -418,10 +426,18 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589983894880">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589985237140">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589983894880" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589985237140" />
+    <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589988701056">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589988701056" />
+    <state x="1655" y="465" key="git4idea.merge.GitPullDialog" timestamp="1589988698143">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1655" y="465" key="git4idea.merge.GitPullDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589988698143" />
     <state x="1603" y="326" width="672" height="677" key="run.anything.popup" timestamp="1589917103925">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
