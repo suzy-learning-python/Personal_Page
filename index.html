@@ -667,9 +667,6 @@
            background-position: center center;
         min-height: 400px;">
 
-<!--    <div class="streak streak-photo streak-md " id="others"-->
-<!--         style="background-image:url('./img/bg_2.png');-->
-<!--background-attachment: fixed; background-size: cover">-->
 
         <div class="mask flex-center rgba-indigo-strong" >
 
@@ -1068,15 +1065,10 @@
     // fade in .navbar
     $(function () {
         var $nav = $('.navbar');//Caching element
-        // hide .navbar first - you can also do this in css .nav{display:none;}
         var prevScrollpos = window.pageYOffset;
 
         $(window).scroll(function () {
-            // set distance user needs to scroll before we start fadeIn
-            // if ($(this).scrollTop() <= $nav.height()) { //For dynamic effect use $nav.height() instead of '100'
-            //     $nav.show()
-            // } else {
-            // window.onscroll = function () {
+
             var currentScrollPos = window.pageYOffset;
             if ((prevScrollpos > currentScrollPos) || ($(this).scrollTop() <= $nav.height())) {
                 document.getElementById("navbar").style.top = "0";
@@ -1085,8 +1077,7 @@
                 document.getElementById("navbar").style.top = "-100px";
             }
             prevScrollpos = currentScrollPos;
-            // }
-            // }
+
         });
         if ($(this).scrollTop() <= $nav.height()) {
             document.getElementById("navbar").style.top = "0";

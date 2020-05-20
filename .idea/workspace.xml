@@ -26,9 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.8: final attempt to fix safari issue of background-image">
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.9: final attempt to fix safari issue of background-image">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
@@ -61,16 +61,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,7 +112,8 @@
       <workItem from="1589974737583" duration="62000" />
       <workItem from="1589974956197" duration="145000" />
       <workItem from="1589975130767" duration="36000" />
-      <workItem from="1589982279803" duration="1578000" />
+      <workItem from="1589982279803" duration="1622000" />
+      <workItem from="1589984417420" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -281,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589974559097</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="beta 1.0.9: final attempt to fix safari issue of background-image">
+      <created>1589983889560</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589983889560</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +338,8 @@
     <MESSAGE value="beta 1.0.6 test safari 如果无法修正safari的js的navbar隐藏bug，那就再见" />
     <MESSAGE value="beta 1.0.7: 1) safari的js的navbar隐藏bug的final attempt; 2) add a new paper; 3) 图像resize dpi和background-attachment: fixed" />
     <MESSAGE value="beta 1.0.8: final attempt to fix safari issue of background-image" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.8: final attempt to fix safari issue of background-image" />
+    <MESSAGE value="beta 1.0.9: final attempt to fix safari issue of background-image" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.9: final attempt to fix safari issue of background-image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1589920573208">
@@ -408,10 +418,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589974566120">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589983894880">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589974566120" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589983894880" />
     <state x="1603" y="326" width="672" height="677" key="run.anything.popup" timestamp="1589917103925">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
