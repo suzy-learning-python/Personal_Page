@@ -26,11 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.7: 1) safari的js的navbar隐藏bug的final attempt; 2) add a new paper; 3) 图像resize dpi和background-attachment: fixed">
-      <change afterPath="$PROJECT_DIR$/img/bg_2.png" afterDir="false" />
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.0.8: final attempt to fix safari issue of background-image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/7D799783-AA52-4700-9005-4121B6616854.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +66,11 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -108,7 +107,11 @@
       <workItem from="1589921449093" duration="1400000" />
       <workItem from="1589923359682" duration="95000" />
       <workItem from="1589971053395" duration="2400000" />
-      <workItem from="1589973813388" duration="648000" />
+      <workItem from="1589973813388" duration="762000" />
+      <workItem from="1589974737583" duration="62000" />
+      <workItem from="1589974956197" duration="145000" />
+      <workItem from="1589975130767" duration="36000" />
+      <workItem from="1589982279803" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -271,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589973441823</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="beta 1.0.8: final attempt to fix safari issue of background-image">
+      <created>1589974559097</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589974559097</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +328,8 @@
     <MESSAGE value="beta 1.0.5 test safari mmp的navbar的hide bug啊抓狂" />
     <MESSAGE value="beta 1.0.6 test safari 如果无法修正safari的js的navbar隐藏bug，那就再见" />
     <MESSAGE value="beta 1.0.7: 1) safari的js的navbar隐藏bug的final attempt; 2) add a new paper; 3) 图像resize dpi和background-attachment: fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.7: 1) safari的js的navbar隐藏bug的final attempt; 2) add a new paper; 3) 图像resize dpi和background-attachment: fixed" />
+    <MESSAGE value="beta 1.0.8: final attempt to fix safari issue of background-image" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.0.8: final attempt to fix safari issue of background-image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1589920573208">
@@ -397,10 +408,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589973448350">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589974566120">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589973448350" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589974566120" />
     <state x="1603" y="326" width="672" height="677" key="run.anything.popup" timestamp="1589917103925">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
