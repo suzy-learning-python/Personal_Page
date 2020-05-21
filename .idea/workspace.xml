@@ -26,11 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.1 sitemap_baidu.xml attached">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
-    </list>
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.1 sitemap_baidu.xml attached" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +111,7 @@
       <workItem from="1589984417420" duration="1532000" />
       <workItem from="1589987960225" duration="505000" />
       <workItem from="1589988690994" duration="103000" />
-      <workItem from="1589989219318" duration="22000" />
+      <workItem from="1589989219318" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -306,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589988782710</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="beta 1.1 sitemap_baidu.xml attached">
+      <created>1589989252197</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589989252197</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,10 +439,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589988787006">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1589989255867">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589988787006" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589989255867" />
     <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589988701056">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
