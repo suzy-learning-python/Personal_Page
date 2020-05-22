@@ -8,11 +8,6 @@
       "dest": "/zh-hans.html"
     },
     {
-      "src": "/zh-hans/(.*)",
-      "status": 404,
-      "dest": "/404_2.html"
-    },
-    {
       "src": "/(.*)",
       "status": 404,
       "dest": "/404.html"
