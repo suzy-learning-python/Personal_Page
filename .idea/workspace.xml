@@ -26,13 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.5.2 设置路由">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404_for_zh_hans.html" afterDir="false" />
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.6 设置路由和404">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap_baidu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap_baidu.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,7 @@
       <workItem from="1590095996197" duration="50000" />
       <workItem from="1590097730356" duration="1579000" />
       <workItem from="1590099486351" duration="35000" />
-      <workItem from="1590182721186" duration="5315000" />
+      <workItem from="1590182721186" duration="5424000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -373,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590184054039</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="beta 1.6 设置路由和404">
+      <created>1590188173235</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1590188173235</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +434,8 @@
     <MESSAGE value="beta 1.5 设置路由" />
     <MESSAGE value="beta 1.5.1 设置路由" />
     <MESSAGE value="beta 1.5.2 设置路由" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.5.2 设置路由" />
+    <MESSAGE value="beta 1.6 设置路由和404" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.6 设置路由和404" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">

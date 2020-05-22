@@ -7,19 +7,14 @@
     <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
     <url>
-        <loc>https://mingzhezou.com/zh-hans.html</loc>
+        <loc>https://mingzhezou.com/zh-hans</loc>
         <lastmod>2020-05-20T14:11:44+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://mingzhezou.com/</loc>
+        <loc>https://mingzhezou.com</loc>
         <lastmod>2020-05-20T14:11:44+00:00</lastmod>
         <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://mingzhezou.com/.</loc>
-        <lastmod>2020-05-20T14:11:44+00:00</lastmod>
-        <priority>0.64</priority>
     </url>
 
 
