@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.5 设置路由" />
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.5.1 设置路由">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +122,7 @@
       <workItem from="1590095996197" duration="50000" />
       <workItem from="1590097730356" duration="1579000" />
       <workItem from="1590099486351" duration="35000" />
-      <workItem from="1590182721186" duration="1017000" />
+      <workItem from="1590182721186" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -352,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590183535517</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="beta 1.5.1 设置路由">
+      <created>1590183866508</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1590183866508</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,17 +417,18 @@
     <MESSAGE value="beta 1.3" />
     <MESSAGE value="beta 1.4 优化图片" />
     <MESSAGE value="beta 1.5 设置路由" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.5 设置路由" />
+    <MESSAGE value="beta 1.5.1 设置路由" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.5.1 设置路由" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1590098417118" />
-    <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1589920573208">
+    <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1590184004536">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589920573208" />
+    <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590184004536" />
     <state x="1633" y="470" key="FileChooserDialogImpl" timestamp="1590052114326">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -490,10 +501,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590183555015">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590183871085">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590183555015" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590183871085" />
     <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589988701056">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

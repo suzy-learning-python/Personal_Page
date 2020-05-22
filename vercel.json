@@ -3,6 +3,10 @@
     {
       "src": "/zh-hans",
       "dest": "/zh-hans.html"
+    },
+    {
+      "src": "/zh-hans.html",
+      "dest": "/zh-hans"
     }
   ]
 }
