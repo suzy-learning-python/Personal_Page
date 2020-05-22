@@ -26,9 +26,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.5.1 设置路由">
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.5.2 设置路由">
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404_for_zh_hans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +63,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\css" />
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
-      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page" />
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\css" />
+      <recent name="C:\Users\SoapClancy\OneDrive\PhD\03-Others\00-Personal_Information\Personal_Page\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -122,7 +126,7 @@
       <workItem from="1590095996197" duration="50000" />
       <workItem from="1590097730356" duration="1579000" />
       <workItem from="1590099486351" duration="35000" />
-      <workItem from="1590182721186" duration="1282000" />
+      <workItem from="1590182721186" duration="5315000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -362,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590183866508</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="beta 1.5.2 设置路由">
+      <created>1590184054039</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1590184054039</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,21 +429,26 @@
     <MESSAGE value="beta 1.4 优化图片" />
     <MESSAGE value="beta 1.5 设置路由" />
     <MESSAGE value="beta 1.5.1 设置路由" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.5.1 设置路由" />
+    <MESSAGE value="beta 1.5.2 设置路由" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 1.5.2 设置路由" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1590098417118" />
+    <state x="1917" y="363" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1590184751703">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1917" y="363" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590184751703" />
     <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog" timestamp="1590184004536">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="779" y="184" width="2309" height="1023" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590184004536" />
-    <state x="1633" y="470" key="FileChooserDialogImpl" timestamp="1590052114326">
+    <state x="1633" y="470" key="FileChooserDialogImpl" timestamp="1590185091942">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1633" y="470" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1590052114326" />
+    <state x="1633" y="470" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1590185091942" />
     <state width="2288" height="409" key="GridCell.Tab.0.bottom" timestamp="1589922853210">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -497,18 +513,26 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2288" height="409" key="GridCell.Tab.3.right/0.0.3440.1400@0.0.3440.1400" timestamp="1589922853211" />
-    <state x="1600" y="372" key="SettingsEditor" timestamp="1589887231812">
+    <state x="1600" y="372" key="SettingsEditor" timestamp="1590184757656">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589887231812" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590183871085">
+    <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1590184757656" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590184062723">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590183871085" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590184062723" />
+    <state x="1979" y="669" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1590184479341">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1979" y="669" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590184479341" />
     <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589988701056">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1804" y="602" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400@0.0.3440.1400" timestamp="1589988701056" />
+    <state x="0" y="182" width="2024" height="1198" key="dock-window-1" timestamp="1590187108958">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="0" y="182" width="2024" height="1198" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1590187108958" />
     <state x="1655" y="465" key="git4idea.merge.GitPullDialog" timestamp="1589988698143">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

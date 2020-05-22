@@ -1,12 +1,21 @@
 {
   "routes": [
     {
+      "handle": "filesystem"
+    },
+    {
       "src": "/zh-hans",
       "dest": "/zh-hans.html"
     },
     {
-      "src": "/zh-hans.html",
-      "dest": "/zh-hans"
+      "src": "/zh-hans/(.*)",
+      "status": 404,
+      "dest": "/404_for_zh_hans.html"
+    },
+    {
+      "src": "/(.*)",
+      "status": 404,
+      "dest": "/404.html"
     }
   ]
 }
