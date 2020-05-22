@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/zh-hans",
+      "dest": "/zh-hans.html"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    }
+  ]
+}
