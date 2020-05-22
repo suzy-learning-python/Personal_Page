@@ -10,7 +10,7 @@
     {
       "src": "/zh-hans/(.*)",
       "status": 404,
-      "dest": "/404_for_zh_hans.html"
+      "dest": "/404_2.html"
     },
     {
       "src": "/(.*)",

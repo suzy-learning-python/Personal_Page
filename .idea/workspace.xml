@@ -26,8 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 1.9 fix_404_bug_final">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 2.0">
+      <change afterPath="$PROJECT_DIR$/404_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +123,8 @@
       <workItem from="1590095996197" duration="50000" />
       <workItem from="1590097730356" duration="1579000" />
       <workItem from="1590099486351" duration="35000" />
-      <workItem from="1590182721186" duration="5797000" />
+      <workItem from="1590182721186" duration="6217000" />
+      <workItem from="1590189370416" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -396,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590188586013</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="beta 1.9 fix_404_bug_final">
+      <created>1590188620762</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1590188620762</updated>
+    </task>
+    <task id="LOCAL-00041" summary="beta 2.0">
+      <created>1590188900820</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1590188900820</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +474,8 @@
     <MESSAGE value="beta 1.7 更新sitemap" />
     <MESSAGE value="beta 1.8 fix_404_bug1" />
     <MESSAGE value="beta 1.9 fix_404_bug_final" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 1.9 fix_404_bug_final" />
+    <MESSAGE value="beta 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 2.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">
@@ -544,10 +562,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1590184757656" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590188475835">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590188906915">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590188475835" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590188906915" />
     <state x="1979" y="669" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1590184479341">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
