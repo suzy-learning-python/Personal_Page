@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="baidu-site-verification" content="wBI7k3JqMn" />
+    <meta name="baidu-site-verification" content="wBI7k3JqMn"/>
     <title>邹明哲的个人主页</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
@@ -759,7 +759,7 @@
             <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">
                 <strong>联系方式</strong>
             </h2>
-
+            <p style="text-align: center" class="mx-0 px-0"> （发送下面的表格以建立联系，或者点击下面的图标在社交网站上找到我）</p>
             <!-- Section sescription -->
             <div class="col-md-8 offset-md-2 mb-5">
 
@@ -794,6 +794,7 @@
 
                                     <input type="email" name="email" id="form52" class="form-control"
                                            required="required">
+                                    <input type="hidden" name="_cc" id="cc_address"/>
 
                                     <label for="form52" class="">邮箱</label>
 
@@ -843,6 +844,10 @@
 
                     </div>
                     <!-- Third row -->
+                    <div class="custom-control custom-checkbox mb-1">
+                        <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+                        <label class="custom-control-label" for="defaultContactFormCopy">给自己发送一份消息的副本</label>
+                    </div>
                     <div class="text-center text-md-right mt-4">
                         <button class="btn btn-primary" type="submit">发送</button>
                     </div>
@@ -924,7 +929,8 @@
                                             <img src="./img/code.jpg"
                                                  style='height: 100%; width: 100%; ' alt="">
                                         </div>
-                                        <p style="justify-content: center;color: #212529; font-weight: 300">用微信程序扫描上方的二维码以建立联系</p>
+                                        <p style="justify-content: center;color: #212529; font-weight: 300">
+                                            用微信程序扫描上方的二维码以建立联系</p>
 
                                     </div>
                                 </div>
@@ -1030,7 +1036,25 @@
             $nav.show()
         }
     });
+    function update_cc_address() {
 
+        var email_val = $("input[id='form52']").val();
+
+        if ($('#defaultContactFormCopy').is(':checked')) {
+            $("input[id='cc_address']").val(email_val)
+        } else {
+            $("input[id='cc_address']").val("")
+        }
+    }
+
+    $(function () {
+        $("input[id='form52']").on(
+            'input', update_cc_address
+        )
+        $('#defaultContactFormCopy').change(
+            update_cc_address
+        )
+    })
 </script>
 
 </body>
