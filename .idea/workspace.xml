@@ -27,7 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 6.0 完善form表单">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="SoapClancy" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Personal_Page" />
   </component>
   <component name="ProjectId" id="1c7dZhwxtY5Ow6RndQgEGJtoKFW" />
   <component name="ProjectLevelVcsManager">
@@ -130,6 +135,7 @@
       <workItem from="1590318585415" duration="735000" />
       <workItem from="1590325275996" duration="783000" />
       <workItem from="1590841396535" duration="11000" />
+      <workItem from="1590841420255" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -453,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590231927395</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="temp">
+      <created>1590841581902</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1590841581902</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="beta 1.0.2 test safari" />
     <MESSAGE value="beta 1.0.3 test safari" />
     <MESSAGE value="beta 1.0.4 test safari mmp的navbar的hide bug啊抓狂" />
     <MESSAGE value="beta 1.0.5 test safari mmp的navbar的hide bug啊抓狂" />
@@ -515,7 +527,8 @@
     <MESSAGE value="beta 4.0 404bug" />
     <MESSAGE value="beta 5.0 404bug，通过改变html的静态文件语句的./，变成/" />
     <MESSAGE value="beta 6.0 完善form表单" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 6.0 完善form表单" />
+    <MESSAGE value="temp" />
+    <option name="LAST_COMMIT_MESSAGE" value="temp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">
@@ -534,6 +547,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1633" y="470" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1590185091942" />
+    <state x="2042" y="654" key="Github.CreatePullRequestDialog" timestamp="1590841591293">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2042" y="654" key="Github.CreatePullRequestDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590841591293" />
     <state width="2288" height="409" key="GridCell.Tab.0.bottom" timestamp="1589922853210">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
