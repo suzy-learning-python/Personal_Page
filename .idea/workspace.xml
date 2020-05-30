@@ -26,10 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 5.0 404bug，通过改变html的静态文件语句的./，变成/">
+    <list default="true" id="ef732f16-8f38-458b-93ed-f7bee8290656" name="Default Changelist" comment="beta 6.0 完善form表单">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh-hans.html" beforeDir="false" afterPath="$PROJECT_DIR$/zh-hans.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -127,7 +125,11 @@
       <workItem from="1590189370416" duration="314000" />
       <workItem from="1590189780832" duration="871000" />
       <workItem from="1590191336495" duration="6000" />
-      <workItem from="1590227112487" duration="4736000" />
+      <workItem from="1590227112487" duration="4916000" />
+      <workItem from="1590232125323" duration="1603000" />
+      <workItem from="1590318585415" duration="735000" />
+      <workItem from="1590325275996" duration="783000" />
+      <workItem from="1590841396535" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="initialise zh-hans">
       <created>1589890980194</created>
@@ -444,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590190608947</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="beta 6.0 完善form表单">
+      <created>1590231927395</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1590231927395</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +490,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="beta 1.0.1 test safari" />
     <MESSAGE value="beta 1.0.2 test safari" />
     <MESSAGE value="beta 1.0.3 test safari" />
     <MESSAGE value="beta 1.0.4 test safari mmp的navbar的hide bug啊抓狂" />
@@ -506,7 +514,8 @@
     <MESSAGE value="beta 3.0 除了语法不改了" />
     <MESSAGE value="beta 4.0 404bug" />
     <MESSAGE value="beta 5.0 404bug，通过改变html的静态文件语句的./，变成/" />
-    <option name="LAST_COMMIT_MESSAGE" value="beta 5.0 404bug，通过改变html的静态文件语句的./，变成/" />
+    <MESSAGE value="beta 6.0 完善form表单" />
+    <option name="LAST_COMMIT_MESSAGE" value="beta 6.0 完善form表单" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1879" y="498" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098417118">
@@ -589,18 +598,18 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="2288" height="409" key="GridCell.Tab.3.right/0.0.3440.1400@0.0.3440.1400" timestamp="1589922853211" />
-    <state x="1600" y="372" key="SettingsEditor" timestamp="1590184757656">
+    <state x="1600" y="372" key="SettingsEditor" timestamp="1590325426006">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1590184757656" />
+    <state x="1600" y="372" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1590325426006" />
     <state x="1961" y="695" key="VCS.ChangelistChooser" timestamp="1590189811310">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1961" y="695" key="VCS.ChangelistChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1590189811310" />
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590190613737">
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2" timestamp="1590231933393">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590190613737" />
+    <state x="1691" y="457" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1590231933393" />
     <state x="1979" y="669" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1590184479341">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
